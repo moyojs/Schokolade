@@ -33,7 +33,7 @@ nav {
   color: #888;
   display: block;
   margin: 8px 22px 8px 22px;
-  overflow: hidden;
+/*   overflow: hidden; */
   width: 90%;
 }
 
